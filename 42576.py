@@ -27,7 +27,7 @@ def solution(p, c):
             answer += person
     return answer
 ########################################
-#완주하지 못하 선수_3
+#완주하지 못한 선수_3
 from collections import Counter
 
 def solution(p, c):
